@@ -1,6 +1,6 @@
 # Weather App
 
-[A sleek minimal weather app that reads an API from] (https://openweathermap.org/) and uses [lottie animations from] (https://lottiefiles.com/)
+A sleek minimal weather app that reads an API from (https://openweathermap.org/) and uses [lottie animations from] (https://lottiefiles.com/)
 
 ## Getting Started
 
